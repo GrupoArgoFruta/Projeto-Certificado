@@ -8,42 +8,42 @@ O Relatório Analítico de Certificados por Parceiro foi desenvolvido para o sis
 
 Essa ferramenta permite que os usuários visualizem, de forma clara e centralizada, todas as informações relevantes sobre os certificados ativos, vencidos ou próximos do vencimento, além dos detalhes cadastrais de cada parceiro.
 
-## 🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
-O projeto tem como finalidade:
+### O projeto tem como finalidade:
 
-Centralizar as informações de certificados emitidos para os parceiros;
+- Centralizar as informações de certificados emitidos para os parceiros;
 
-Aumentar a transparência no controle documental;
+- Aumentar a transparência no controle documental;
 
-Evitar atrasos e não conformidades, permitindo ações preventivas antes do vencimento dos certificados;
+- Evitar atrasos e não conformidades, permitindo ações preventivas antes do vencimento dos certificados;
 
-Agilizar a consulta às informações por meio de uma interface simples e filtrável diretamente no sistema Sankhya.
+- Agilizar a consulta às informações por meio de uma interface simples e filtrável diretamente no sistema Sankhya.
 
-⚙️ Funcionalidades Principais
-🔹 1. Visualização por Parceiro
+# ⚙️ Funcionalidades Principais
+### 🔹 1. Visualização por Parceiro
 
-Exibe uma lista com todos os parceiros comerciais cadastrados que possuem certificados.
+- Exibe uma lista com todos os parceiros comerciais cadastrados que possuem certificados.
 
-Ao clicar no nome do parceiro, são exibidas as informações detalhadas de cada certificado.
+- Ao clicar no nome do parceiro, são exibidas as informações detalhadas de cada certificado.
 
-🔹 2. Informações Exibidas
+### 🔹 2. Informações Exibidas
 
-Cada registro mostra:
+- Cada registro mostra:
 
-Nome e razão social do parceiro;
+- Nome e razão social do parceiro;
 
-Telefones e e-mails de contato;
+- Telefones e e-mails de contato;
 
-Endereço completo dos produtores;
+- Endereço completo dos produtores;
 
-Detalhes do certificado:
+- Detalhes do certificado:
 
-Tipo de certificado;
+- Tipo de certificado;
 
-Data de validade;
+- Data de validade;
 
-Status;
+- Status;
 
 Área total certificada;
 

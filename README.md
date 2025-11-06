@@ -45,6 +45,14 @@ Essa ferramenta permite que os usuários visualizem, de forma clara e centraliza
 
 - Status;
 
-Área total certificada;
+### Área total certificada;
 
-Situação (válido, vencido, a vencer ou sem data).
+- Situação (válido, vencido, a vencer ou sem data).
+
+### O relatório utiliza ícones e cores para facilitar a identificação do status de cada certificado:
+
+### Cor	Status	Significado
+- 🟢 Verde	Válido	O certificado está dentro do prazo de validade.
+- 🟡 Amarelo	A Vencer	O certificado vence em até 60 dias.
+- 🔴 Vermelho	Vencido	O certificado está fora do prazo de validade.
+⚪ Cinza	Sem Data	O certificado não possui data de validade informada.

@@ -55,4 +55,35 @@ Essa ferramenta permite que os usuários visualizem, de forma clara e centraliza
 - 🟢 Verde	Válido	O certificado está dentro do prazo de validade.
 - 🟡 Amarelo	A Vencer	O certificado vence em até 60 dias.
 - 🔴 Vermelho	Vencido	O certificado está fora do prazo de validade.
-⚪ Cinza	Sem Data	O certificado não possui data de validade informada.
+- ⚪ Cinza	Sem Data	O certificado não possui data de validade informada.
+🔹 4. Acesso a Anexos
+
+Quando o certificado possui documentos anexados (como PDFs ou imagens), o sistema exibe o botão “Baixar Anexo”, permitindo o download direto.
+
+🔹 5. Filtros e Navegação
+
+Campo “Itens por página” para definir quantos parceiros serão exibidos simultaneamente;
+
+Botões de paginação na parte inferior da tela;
+
+Informações no topo sobre o número total de parceiros e a página atual.
+
+🧭 Como Utilizar o Relatório
+
+Acesse o sistema Sankhya e abra o menu “Relatórios Analíticos”.
+
+Selecione a opção “Certificados por Parceiro”.
+
+O sistema exibirá automaticamente todos os parceiros com certificados vinculados.
+
+Clique sobre o nome de um parceiro para visualizar:
+
+Os certificados ativos e vencidos;
+
+Datas de validade e áreas certificadas;
+
+Anexos disponíveis para download.
+
+Utilize os filtros e a paginação conforme a necessidade de consulta.
+
+

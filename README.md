@@ -58,32 +58,33 @@ Essa ferramenta permite que os usuários visualizem, de forma clara e centraliza
 - ⚪ Cinza	Sem Data	O certificado não possui data de validade informada.
 🔹 4. Acesso a Anexos
 
-Quando o certificado possui documentos anexados (como PDFs ou imagens), o sistema exibe o botão “Baixar Anexo”, permitindo o download direto.
+### Quando o certificado possui documentos anexados (como PDFs ou imagens), o sistema exibe o botão “Baixar Anexo”, permitindo o download direto.
 
-🔹 5. Filtros e Navegação
 
-Campo “Itens por página” para definir quantos parceiros serão exibidos simultaneamente;
+### 🔹 5. Filtros e Navegação
 
-Botões de paginação na parte inferior da tela;
+- Campo “Itens por página” para definir quantos parceiros serão exibidos simultaneamente;
 
-Informações no topo sobre o número total de parceiros e a página atual.
+- Botões de paginação na parte inferior da tela;
 
-🧭 Como Utilizar o Relatório
+- Informações no topo sobre o número total de parceiros e a página atual.
 
-Acesse o sistema Sankhya e abra o menu “Relatórios Analíticos”.
+### 🧭 Como Utilizar o Relatório
 
-Selecione a opção “Certificados por Parceiro”.
+- Acesse o sistema Sankhya e abra o menu “Relatórios Analíticos”.
 
-O sistema exibirá automaticamente todos os parceiros com certificados vinculados.
+- Selecione a opção “Certificados por Parceiro”.
 
-Clique sobre o nome de um parceiro para visualizar:
+- O sistema exibirá automaticamente todos os parceiros com certificados vinculados.
 
-Os certificados ativos e vencidos;
+### Clique sobre o nome de um parceiro para visualizar:
 
-Datas de validade e áreas certificadas;
+- Os certificados ativos e vencidos;
 
-Anexos disponíveis para download.
+- Datas de validade e áreas certificadas;
 
-Utilize os filtros e a paginação conforme a necessidade de consulta.
+- Anexos disponíveis para download.
+
+- Utilize os filtros e a paginação conforme a necessidade de consulta.
 
 
